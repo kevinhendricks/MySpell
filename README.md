@@ -1,9 +1,9 @@
 MySpell
 =======
 
-Note:  MySpell-3.2 has been subsumed by	the Hunspell project
+*** Note:  MySpell-3.2 has been subsumed by	the Hunspell project
 This repo is here just to archive some older software I	once
-wrote.
+wrote. ***
 
 
 MySpell is a simple spell checker that uses affix 
